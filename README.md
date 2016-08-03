@@ -6,7 +6,7 @@
 
 + update openresty.org presentations page. Collect and maintain new presentations and best practices for encourage more and more usercase.(by guanri Qin and zhangyong Li)
 
-+ translate (programming-openresty)[https://github.com/openresty/programming-openresty] to [Chinese](https://github.com/iresty/programming-openresty-zh) (by zexuan Luo,ming Wen,yuansheng Wang)
++ translate [programming-openresty](https://github.com/openresty/programming-openresty) to [Chinese](https://github.com/iresty/programming-openresty-zh) (by zexuan Luo,ming Wen,yuansheng Wang)
 
 
 + design and implement pure lua http/2 clint for OpenResty (by yuansheng Wang)
